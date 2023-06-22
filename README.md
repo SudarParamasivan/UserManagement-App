@@ -2,5 +2,5 @@ In this User Management Application, User can Add new user,Readuser details, Edi
 
 additional libraries or packages: Bootsrap,Yup,Formik,Sweet-alert2
 
-FrontEnd Deployment Link: 
-Github BackEnd Link:
+FrontEnd Deployment Link: https://usermanagement-app.netlify.app/
+Github BackEnd Link:https://github.com/SudarParamasivan/UserManagement-App
